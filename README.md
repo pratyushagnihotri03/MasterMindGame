@@ -4,5 +4,4 @@ Microsoft .Net Gadgeteer is an open source toolkit for creating fun apps with a 
 * Software used: Microsfot Visual Studio IDE,  Microsoft .Net Framework, C#
 * Hardware used: Microsoft .Net Gadgeteer
 
-Output Result:
-
+![Alt text](./MasterMindGame_OutOutResult.png "Output Result:")
